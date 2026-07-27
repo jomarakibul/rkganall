@@ -2,15 +2,15 @@
   "admin": [
     {
       "User": "admin",
-      "app_name": "rsg",
-      "status": "online",
+      "app_name": "ণডণ",
+      "status": "onlineয",
       "password": "RA@2026",
       "upload_type": "github",
       "cloud_upload_visible": true,
-      "message": "ggx",
-      "domain": "gxgvv",
-      "post_api": "xvg",
-      "get_api": "vxv"
+      "message": "তবত",
+      "domain": "তবণ",
+      "post_api": "তণব",
+      "get_api": "যবম"
     }
   ]
 }
